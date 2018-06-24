@@ -1,6 +1,6 @@
-# friendlychat
+# pearshare
 
-Chatbot
+Food Waste reduction
 
 ## Getting Started
 

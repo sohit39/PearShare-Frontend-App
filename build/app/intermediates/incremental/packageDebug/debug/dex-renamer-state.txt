@@ -1,4 +1,0 @@
-#Mon May 21 21:30:06 SGT 2018
-base.0=/Users/sohitgatiganti/AndroidStudioProjects/friendlychat/build/app/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
